@@ -1,7 +1,7 @@
 {
     "xapp_name": "replyxapp",
     "version": "0.6.0",
-    "vendor": "Nokia",
+    "vendor": "NET Reply",
     "moId": "SEP",
     "containers": [
         {
